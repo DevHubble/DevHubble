@@ -7,8 +7,7 @@
 <p align="left">
 <a href="https://fb.com/kon100te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kon100te" height="30" width="40" /></a>
 <a href="https://instagram.com/jokersilencioso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jokersilencioso" height="30" width="40" /></a>
-<a href="https://instagram.com/jokersilencioso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="jokersilencioso" height="30" width="40" /></a>
-<a href="https://instagram.com/jokersilencioso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jokersilencioso" height="30" width="40" /></a>
+<a href="https://wa.link/ibtyy6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="jokersilencioso" height="30" width="40" /></a>
 <a href="https://instagram.com/jokersilencioso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jokersilencioso" height="30" width="40" /></a>
 </p>
 
