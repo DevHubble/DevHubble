@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devhubble&" alt="devhubble" /></p>
 
-![Snake animation](https://github.com/rafaballerini/devhubble/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devhubble/devhubble/blob/output/github-contribution-grid-snake.svg)
